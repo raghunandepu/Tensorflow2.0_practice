@@ -35,7 +35,8 @@ print(y_pred)
 print(y_test[:3])
 
 # As you can see, the Sequential API is quite easy to use.
-# However, although Sequential models are extremely common, it is sometimes useful to build neural networks with more complex topologies, or with multiple inputs or outputs.
+# However, although Sequential models are extremely common, it is sometimes useful to build neural networks with 
+# more complex topologies, or with multiple inputs or outputs.
 # For this purpose, Keras offers the Functional API
 
 
